@@ -1,0 +1,10 @@
+title: "마인크래프트 인공생명 개발기 (가제)"
+description: "몹의 몸은 빌리고, 뇌는 작게, 오직 자연 선택만으로."
+author: lightindoeup
+lang: ko
+timezone: Asia/Seoul
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+minima:
+  skin: classic
